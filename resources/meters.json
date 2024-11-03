@@ -1,0 +1,37 @@
+[
+    {
+        "service_date": "2024-10-07",
+        "building_area": "workshop",
+        "service": "lights",
+        "serial_number": "06290bc9-3453-4958-9a2b-3c29562528df",
+        "unit": "kW"
+    },
+    {
+        "service_date": "2024-10-07",
+        "building_area": "workshop",
+        "service": "production machines",
+        "serial_number": "b062551b-ee8b-449d-9468-4a13615656e7",
+        "unit": "kW"
+    },
+    {
+        "service_date": "2024-10-07",
+        "building_area": "workshop",
+        "service": "desks",
+        "serial_number": "21192ff2-7cfd-41aa-973b-1e3cea43c89f",
+        "unit": "kW"
+    },
+    {
+        "service_date": "2024-10-07",
+        "building_area": "office",
+        "service": "lights",
+        "serial_number": "6636462c-6629-4836-baa6-12f198e86096",
+        "unit": "kW"
+    },
+    {
+        "service_date": "2024-10-07",
+        "building_area": "office",
+        "service": "desks",
+        "serial_number": "a32b330f-c6e2-46e4-b5e1-10fcb1ddd693",
+        "unit": "kW"
+    }
+]
